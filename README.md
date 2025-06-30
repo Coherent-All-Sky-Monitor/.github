@@ -1,1 +1,1 @@
-# .github
+# Coherent All-Sky Monitor
